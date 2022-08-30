@@ -13,14 +13,11 @@ public class JavaStdinAndStdout {
         int b = leia.nextInt();
         int c = leia.nextInt();
       
-        // Complete this line
-        // Complete this line
 
         System.out.println(a);
         System.out.println(b);
         System.out.println(c);
-        // Complete this line
-        // Complete this line
+        
     }
 }
 

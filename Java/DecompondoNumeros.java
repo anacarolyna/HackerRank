@@ -1,4 +1,4 @@
-package Java;
+ package Java;
 /*
  * Complete a seguinte função para que a mesma devolva todos os possíveis números  
  *  de 4 dígitos, onde cada um seja menor ou igual a 
@@ -20,7 +20,7 @@ public class DecompondoNumeros {
 		int valor0 = Integer.parseInt(String.valueOf(digitos[0]));
 		int valor1 = Integer.parseInt(String.valueOf(digitos[1]));
 		int valor2 = Integer.parseInt(String.valueOf(digitos[2]));
-		int valor3  = Integer.parseInt(String.valueOf(digitos[3]));
+		int valor3 = Integer.parseInt(String.valueOf(digitos[3]));
 		
 		
 		soma = valor0 + valor1 + valor2 + valor3;
@@ -31,8 +31,6 @@ public class DecompondoNumeros {
 		} else System.out.println(0);
 		 
 		 
-		
-		
 				
 			}
 			
